@@ -237,7 +237,7 @@ Publish the website in the LocalHost.
                 <div class="author-block">
                     <div class="author-text">
                         <div class="author-label">Author</div>
-                        <div class="author-name">SRIMEGANATHAN S</div>
+                        <div class="author-name">Dharshan V S</div>
                     </div>
                     <!-- you can replace this circle with your own photo using <img> -->
                     <div class="author-photo">
@@ -255,7 +255,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-<img width="1882" height="1196" alt="image" src="https://github.com/user-attachments/assets/9c797d68-2c61-474d-b5e1-ca27a41077f6" />
+<img width="1275" height="636" alt="image" src="https://github.com/user-attachments/assets/a2d9a3e6-1488-46a4-a656-3b11a749a5e9" />
 
 
 ## RESULT:
